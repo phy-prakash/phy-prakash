@@ -13,13 +13,12 @@ My research focuses on understanding and designing functional materials using **
 - 🧪 **Computational Materials Science**
 - ⚡ **Thermoelectric Materials**
 - ☀️ **Photovoltaic Materials**
-- 🔋 **Solid-State Ionics & Superionic Materials**
+- 🔋 **Electrochemical storage**
 - 🧬 **Ion Diffusion & Finite-Temperature Properties**
 - ⚛️ **Electronic Structure & Chemical Bonding**
 - 🤖 **Machine-Learned Force Fields (MLFF)**
 - 🌡️ **Ab Initio Molecular Dynamics (AIMD)**
 - 🔗 **Electrocatalysis & Surface Chemistry**
-- 🚀 **High-Throughput Materials Screening**
 
 ---
 
