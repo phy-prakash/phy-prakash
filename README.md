@@ -33,25 +33,6 @@ My research focuses on understanding and designing functional materials using **
 
 ---
 
-## 🚀 Research & Software Projects
-
-### 🧪 eckit
-
-A computational toolkit for automated **electrochemical surface, adsorbate, and electrocatalyst analysis**.
-
-The project aims to automate computational workflows from relaxed surface structures through:
-
-- Surface analysis
-- Adsorption-site identification
-- Adsorbate placement
-- VASP calculations
-- Electronic-structure analysis
-- Adsorption-energy evaluation
-- Thermodynamic corrections
-- Electrocatalyst screening
-
----
-
 ## 📚 Research
 
 My research involves computational investigation of functional materials with emphasis on:
