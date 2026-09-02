@@ -1,4 +1,4 @@
-# Dr. Prakash
+# Dr. Prakash G
 
 ### Postdoctoral Researcher | Computational Materials Science
 
